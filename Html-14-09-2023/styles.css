@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+button {
+    color: blue;
+}
+
+.sucesso{
+    color: green;
+}
+.falha{
+    color: blueviolet
+}
+.erro{
+    color: red;
+}
